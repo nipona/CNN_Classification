@@ -23,6 +23,7 @@ We will use the the pre-trained Xception model as a fixed feature extractor, whe
 * sklearn
 * keras
 
+### Medium story : https://medium.com/@nikhilsharm/classification-of-dog-breed-using-cnn-52173961b264
 ## Acknowledgement
 
 Thanks to Udacity for providing the platform
