@@ -1,4 +1,4 @@
-# CNN_Classification
+# Dog Breed classification using CNN
 
 ## Project Overview
 
